@@ -25,7 +25,7 @@ DB_USER=root
   - Open browser and navigate to localhost:3005
 
   ## Usage
-  [DEMO APP](https://mighty-stream-31683.herokuapp.com/)
+  [DEMO APP](https://brandon-techblog.herokuapp.com/)
 
   ![Screenshot](assets/images/screenshot.png)
   
